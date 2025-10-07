@@ -7,5 +7,4 @@ python-dotenv==1.0.1
 pytesseract==0.3.13
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.25.1
-json
 collections
